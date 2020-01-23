@@ -1,0 +1,20 @@
+$ OBSTACLES
+
+1) Unable to implement Junit	
+2) Unable to implement logging/transactions
+
+==========	
+$ TRY
+	
+	
+==========	
+$ TODO
+	
+1) customer > apply
+	- having an applicationrequest class might not be needed anymomre..
+	
+2) employees table seems backwards?
+
+3) final thoughts...
+	- can i eventually get rid of the authenticated user?
+	- rely solely on database for information
